@@ -1,0 +1,5 @@
+requests
+textblob
+transformers
+schedule
+python-dotenv
