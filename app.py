@@ -24,7 +24,7 @@ if st.button("Generate Post"):
             image = generate_image(quote, author)
 
             # Display: Image first, then quotes
-            st.image(image, use_column_width=True)
+            st.image(image, use_container_width=True)
             st.markdown(f"**“{quote}” — {author}**")
             st.write(enhanced)
 
