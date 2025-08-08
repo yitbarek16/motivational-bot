@@ -3,3 +3,6 @@ textblob
 transformers
 schedule
 python-dotenv
+openai
+huggingface_hub 
+dotenv
